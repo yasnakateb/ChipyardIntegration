@@ -90,7 +90,7 @@ conda activate base
    ```
    Takhol/
        build.sbt
-       src/main/scala/takhol.scala
+       src/main/scala/Takhol.scala
    ```
 
 2. Add the project settings to `build.sbt`:
